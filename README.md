@@ -9,7 +9,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market and wants to understand how
 
 ## How to Run
 
-Open the `stall_analysis.ipynb` notebook in Google Colab: **[Open in Colab](YOUR-COLAB-LINK-HERE)**
+Open the `stall_analysis.ipynb` notebook in Google Colab: https://colab.research.google.com/drive/1m5KqdavO6D9EinymLjIflJCrzONHaQ0o?usp=sharing 
 
 ## Top Three Findings
 
